@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("Academic Year", "2023");
                 intent.putExtra("Semester", "1");
                 intent.putExtra("Module Credit", "4");
-                intent.putExtra("Venue", "W64N");
+                intent.putExtra("Venue", "W64P");
                 startActivity(intent);
             }
         });
@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("Academic Year", "2023");
                 intent.putExtra("Semester", "1");
                 intent.putExtra("Module Credit", "4");
-                intent.putExtra("Venue", "W64N");
+                intent.putExtra("Venue", "W64P");
                 startActivity(intent);
             }
         });
